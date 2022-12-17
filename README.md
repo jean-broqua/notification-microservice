@@ -2,6 +2,12 @@
 
 Complete microservice to handle notifications.
 
+## Used:
+
+- NestJs
+- Prisma
+- SQLite
+
 ## Setup:
 
 Start:
@@ -26,3 +32,11 @@ yarn test
 - In-Memory Database
 - Factory Pattern
 - REST
+
+<br>
+<hr>
+
+## Next Steps:
+
+- Change to external SQL database
+- Add E2E tests
