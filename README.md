@@ -7,6 +7,7 @@ Complete microservice to handle notifications.
 - NestJs
 - Prisma
 - SQLite
+- Kafka
 
 ## Setup:
 
